@@ -1,0 +1,12 @@
+dashboard 1 :https://public.tableau.com/views/twxtfile/ResponsiveandDesignofDashboar?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+dashboard 2 :https://public.tableau.com/views/twxtfile/DietaryHabitsandPreferences?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+dashboard 3 :https://public.tableau.com/views/twxtfile/HealthandNutrition?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+dashboard 4:https://public.tableau.com/views/twxtfile/ParentalInfluenceandEatingOut?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+story:https://public.tableau.com/views/twxtfile/theimpactofchildhoodpreferencesonadultchoices?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
